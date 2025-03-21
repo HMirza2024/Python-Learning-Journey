@@ -1,0 +1,24 @@
+Jupyter Python Course
+
+This notebook contains exercises and coding challenges from a Python course using Jupyter Notebooks. It covers a wide range of topics from basic syntax to intermediate concepts.
+
+Contents
+- Python Basics
+- Data Structures (Lists, Tuples, Dictionaries)
+- Conditional Statements and Loops
+- Functions and Recursion
+- File Handling
+- Error and Exception Handling
+- Basic Data Analysis Concepts
+
+How to Run
+1. Install [Jupyter Notebook](https://jupyter.org/install) using Anaconda or pip.
+2. Ensure Python 3 is installed.
+3. Open the notebook using the following command:
+    ```bash
+    jupyter notebook Jupyter_course_modified.ipynb
+    ```
+
+Notes
+- Explanations and code explanations are added for better clarity.
+- You are encouraged to tweak and experiment with the code to build a solid understanding.
